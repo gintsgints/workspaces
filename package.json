@@ -1,0 +1,14 @@
+{
+  "name": "testworkspaces",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "xxx"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "prettier": "^1.15.3"
+  }
+}

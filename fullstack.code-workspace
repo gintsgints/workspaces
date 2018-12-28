@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "packages\\pk1"
+    },
+    {
+      "path": "packages\\pk2"
+    },
+    {
+      "path": "packages\\vscode-ts-node-debugging"
+    }
+  ],
+  "settings": {}
+}

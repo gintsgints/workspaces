@@ -1,0 +1,14 @@
+{
+  "name": "pk2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "ts-node -r tsconfig-paths/register src/index.ts"
+  },
+  "dependencies": {
+    "node-ts": "^2.1.2",
+    "tsconfig-paths": "^3.7.0",
+    "typescript": "^3.2.2"
+  },
+  "devDependencies": {}
+}
